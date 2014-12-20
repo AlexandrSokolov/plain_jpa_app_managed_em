@@ -1,0 +1,4 @@
+Creates JPA entities
+Creates CRUD repository services
+Creates repository services to get collections of elements
+Uses application managed EntityManager (Persistence.createEntityManagerFactory) to test services immidiately
